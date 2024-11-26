@@ -1,0 +1,95 @@
+Topic: Box Office Performance
+  box: 0.3453
+  office: 0.3334
+  weekend: 0.2738
+  joker: 0.2262
+  million: 0.2262
+  folie: 0.2143
+  deux: 0.2024
+  venom: 0.2024
+  movie: 0.1548
+  dance: 0.1429
+
+Topic: Broader Industry Trends
+  deadpool: 0.3391
+  amp: 0.3148
+  wolverine: 0.2906
+  film: 0.2180
+  marvel: 0.2180
+  movie: 0.1695
+  disney: 0.1211
+  movies: 0.1211
+  streaming: 0.1211
+  eastwood: 0.0969
+
+Topic: Cast and Crew
+  gladiator: 0.2667
+  film: 0.2489
+  new: 0.2311
+  mescal: 0.2134
+  paul: 0.2134
+  ii: 0.1956
+  director: 0.1600
+  movie: 0.1422
+  ridley: 0.1422
+  award: 0.1245
+
+Topic: Cultural Impact
+  film: 0.2395
+  venom: 0.1916
+  emilia: 0.1437
+  known: 0.1437
+  like: 0.1437
+  man: 0.1437
+  presidential: 0.1437
+  reynolds: 0.1437
+  ryan: 0.1437
+  sony: 0.1437
+
+Topic: Marketing and Promotion
+  film: 0.3132
+  gladiator: 0.2143
+  new: 0.2143
+  moana: 0.1813
+  stars: 0.1813
+  disney: 0.1648
+  ii: 0.1648
+  movie: 0.1648
+  joker: 0.1484
+  bucket: 0.1319
+
+Topic: Plot and Themes
+  venom: 0.3830
+  conclave: 0.2979
+  movie: 0.2766
+  film: 0.1915
+  dance: 0.1702
+  ralph: 0.1702
+  spoilers: 0.1702
+  clint: 0.1489
+  eastwood: 0.1489
+  new: 0.1489
+
+Topic: Production and Behind-the-Scenes
+  deadpool: 0.2463
+  wolverine: 0.2463
+  amp: 0.2239
+  film: 0.2015
+  gladiator: 0.1791
+  new: 0.1791
+  director: 0.1567
+  disney: 0.1567
+  like: 0.1567
+  movie: 0.1567
+
+Topic: Reception and Reviews
+  film: 0.2711
+  venom: 0.2711
+  movie: 0.2576
+  joker: 0.2440
+  folie: 0.1898
+  deux: 0.1762
+  conclave: 0.1627
+  director: 0.1491
+  dance: 0.1356
+  movies: 0.1356
