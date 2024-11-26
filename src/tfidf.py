@@ -16,9 +16,12 @@ filepath = os.path.join(folder, filename)
 
 data = pd.read_csv(filepath)
 
+#COMMENT THIS LINE TO GET AN ANALYS FOR ALL FILMS, NOT JUST EMILIA PEREZ. 
+data = data[data['Movie Topic'].str.contains('Focus on Emilia|Mentions Emilia', case=False, na=False)]
+
 #debugging:
-#print(data.head())  # Display the first few rows of the DataFrame
-#print(data.info())  # Check the structure and presence of columns
+# print(data.head())  # Display the first few rows of the DataFrame
+# print(data.info())  # Check the structure and presence of columns
 
 # Group articles by the "Article Topic" category
 grouped = data.groupby('Article Topic')
@@ -52,11 +55,14 @@ for topic, group in grouped:
     top_words_per_topic[topic] = sorted_words
 
 #get rid of the non-categorized stuff
-top_words_per_topic.pop('JUNK')
-top_words_per_topic.pop('IRRELEVANT')
-top_words_per_topic.pop('NOT ENGLISH')
+try:
+    top_words_per_topic.pop('JUNK')
+    top_words_per_topic.pop('IRRELEVANT')
+    top_words_per_topic.pop('NOT ENGLISH')
+except:
+    pass
 
-# Display the top words for each topic
+#Display the top words for each topic
 for topic, top_words in top_words_per_topic.items():
     print(f"Topic: {topic}")
     for word, score in top_words:

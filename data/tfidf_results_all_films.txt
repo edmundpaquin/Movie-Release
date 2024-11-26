@@ -1,3 +1,5 @@
+TF-IDF for all movies. Probably won't use this. 
+
 Topic: Box Office Performance
   box: 0.3453
   office: 0.3334

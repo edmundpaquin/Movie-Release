@@ -1,0 +1,73 @@
+TF-IDF Results for Articles about Emilia Perez
+
+Topic: Broader Industry Trends
+  awards: 0.2052
+  emilia: 0.2052
+  media: 0.2052
+  annually: 0.1026
+  aud: 0.1026
+  bending: 0.1026
+  blitzis: 0.1026
+  categories: 0.1026
+  celebrating: 0.1026
+  city: 0.1026
+
+Topic: Cast and Crew
+  gomez: 0.3508
+  selena: 0.3508
+  audiard: 0.1754
+  director: 0.1754
+  emilia: 0.1754
+  film: 0.1754
+  jacques: 0.1754
+  new: 0.1754
+  role: 0.1754
+  says: 0.1754
+
+Topic: Cultural Impact
+  emilia: 0.3810
+  body: 0.2540
+  day: 0.2540
+  gomez: 0.2540
+  premiere: 0.2540
+  selena: 0.2540
+  angeles: 0.1270
+  appearance: 0.1270
+  audacity: 0.1270
+  bullies: 0.1270
+
+Topic: Marketing and Promotion
+  emilia: 0.3634
+  film: 0.3634
+  season: 0.2596
+  musical: 0.2077
+  stars: 0.2077
+  festival: 0.1558
+  gomez: 0.1558
+  selena: 0.1558
+  archives: 0.1038
+  award: 0.1038
+
+Topic: Production and Behind-the-Scenes
+  emilia: 0.3714
+  music: 0.2785
+  musical: 0.2785
+  gomez: 0.1857
+  jacques: 0.1857
+  selena: 0.1857
+  videos: 0.1857
+  zoe: 0.1857
+  actors: 0.0928
+  argument: 0.0928
+
+Topic: Reception and Reviews
+  emilia: 0.5427
+  audiard: 0.2412
+  jacques: 0.2412
+  musical: 0.2412
+  film: 0.1809
+  ambition: 0.1206
+  appreciate: 0.1206
+  audacious: 0.1206
+  awards: 0.1206
+  crime: 0.1206
