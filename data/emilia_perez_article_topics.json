@@ -1,0 +1,26 @@
+{
+    "Marketing and Promotion": {
+        "count": 15,
+        "percentage": 31.91
+    },
+    "Reception and Reviews": {
+        "count": 10,
+        "percentage": 21.28
+    },
+    "Cast and Crew": {
+        "count": 9,
+        "percentage": 19.15
+    },
+    "Production and Behind-the-Scenes": {
+        "count": 5,
+        "percentage": 10.64
+    },
+    "Broader Industry Trends": {
+        "count": 5,
+        "percentage": 10.64
+    },
+    "Cultural Impact": {
+        "count": 3,
+        "percentage": 6.38
+    }
+}

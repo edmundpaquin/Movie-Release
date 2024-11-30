@@ -1,0 +1,46 @@
+{
+    "Reception and Reviews": {
+        "count": 101,
+        "percentage": 19.77
+    },
+    "Marketing and Promotion": {
+        "count": 89,
+        "percentage": 17.42
+    },
+    "Box Office Performance": {
+        "count": 77,
+        "percentage": 15.07
+    },
+    "Cast and Crew": {
+        "count": 73,
+        "percentage": 14.29
+    },
+    "Broader Industry Trends": {
+        "count": 49,
+        "percentage": 9.59
+    },
+    "Production and Behind-the-Scenes": {
+        "count": 49,
+        "percentage": 9.59
+    },
+    "Plot and Themes": {
+        "count": 46,
+        "percentage": 9.0
+    },
+    "Cultural Impact": {
+        "count": 21,
+        "percentage": 4.11
+    },
+    "IRRELEVANT": {
+        "count": 3,
+        "percentage": 0.59
+    },
+    "JUNK": {
+        "count": 2,
+        "percentage": 0.39
+    },
+    "NOT ENGLISH": {
+        "count": 1,
+        "percentage": 0.2
+    }
+}
