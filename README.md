@@ -1,17 +1,8 @@
 # comp370-FinalProject
 
-SCRIPTS
-1 - fetch_articles
-# Requirements 
-pip install requests
+By Edmund Paquin, Jacob Parent, and Kevin Patel. 
 
-# Execution (run inside src folder)
-python3 fetch_articles.py -key YOUR_API_KEY
+This repo contains the source data, all code used to conduct analysis, and a PDF explaining methods and final results. 
 
-
-2 - json_to_csv.py
-# Execution 
-python3 json-to_csv.py
-
-
-
+Overview:
+In this project, we studied the coverage of ten films re-leased in the second half of 2024, primarily in October and November, with a particular focus on the film Emilia Pérez. The objective of our work was to determine how much coverage Emilia Pérez has in the media in relation to the other films, and to determine what as-pects of the film are highlighted in the coverage.
