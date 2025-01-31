@@ -1,6 +1,6 @@
-# comp370-FinalProject
+# Film Release Analysis Project
 
-By Edmund Paquin, Jacob Parent, and Kevin Patel. 
+By Edmund Paquin, Jacob Parent, and Kevin Patel. Carried out for the final project of Introductoin to Data Science (COMP 370) at McGill University. 
 
 This repo contains the source data, all code used to conduct analysis, and a PDF explaining methods and final results. 
 
